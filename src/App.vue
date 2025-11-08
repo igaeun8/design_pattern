@@ -12,6 +12,9 @@
       <li><a href="/observer.html">옵저버 패턴</a></li>
       <li><a href="/singleton.html">싱글톤 패턴</a></li>
       <li><a href="/visitor.html">방문자 패턴</a></li>
+      <li><a href="/prototype.html">프로토타입 패턴</a></li>
+      <li><a href="/composite.html">컴포지트 패턴</a></li>
+      <li><a href="/command.html">커맨드 패턴</a></li>
     </ul>
   </main>
 </template>
