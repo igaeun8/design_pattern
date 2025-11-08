@@ -1,4 +1,4 @@
-# [초급프로젝트] 디자인 패턴 실습
+# [초급프로젝트] 실습 3: 6-7주차 영상 강의 대체 - 디자인 패턴 실습
 
 ## 1. 저장소 정보
 - Github: https://github.com/igaeun8/design_pattern.git
