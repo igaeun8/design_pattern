@@ -6,15 +6,15 @@
     </section>
 
     <ul class="links">
-      <li><a href="/factory.html">팩토리 메서드 패턴</a></li>
-      <li><a href="/adapter.html">어댑터 패턴</a></li>
-      <li><a href="/decorator.html">데코레이터 패턴</a></li>
-      <li><a href="/observer.html">옵저버 패턴</a></li>
-      <li><a href="/singleton.html">싱글톤 패턴</a></li>
-      <li><a href="/visitor.html">방문자 패턴</a></li>
-      <li><a href="/prototype.html">프로토타입 패턴</a></li>
-      <li><a href="/composite.html">컴포지트 패턴</a></li>
-      <li><a href="/command.html">커맨드 패턴</a></li>
+      <li><a href="/entries/factory.html">팩토리 메서드 패턴</a></li>
+      <li><a href="/entries/adapter.html">어댑터 패턴</a></li>
+      <li><a href="/entries/decorator.html">데코레이터 패턴</a></li>
+      <li><a href="/entries/observer.html">옵저버 패턴</a></li>
+      <li><a href="/entries/singleton.html">싱글톤 패턴</a></li>
+      <li><a href="/entries/visitor.html">방문자 패턴</a></li>
+      <li><a href="/entries/prototype.html">프로토타입 패턴</a></li>
+      <li><a href="/entries/composite.html">컴포지트 패턴</a></li>
+      <li><a href="/entries/command.html">커맨드 패턴</a></li>
     </ul>
   </main>
 </template>
